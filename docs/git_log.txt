@@ -1,0 +1,9 @@
+* b586ccf (HEAD -> main) docs: README и протоколы
+* 7581225 feat(aggregator): статистика
+* ef0b757 feat(parser): чтение CSV и валидация
+*   c1ea8c5 chore: базовая структура проекта
+|\  
+| * ac4fea9 (feature/docs-conflict) docs: добавлен раздел документации
+* | e0c608b chore: добавлен раздел в README
+|/  
+* 487fda1 (feature/parser, feature/docs, feature/aggregator) chore: базовая структура проекта (src, tests, docs)
